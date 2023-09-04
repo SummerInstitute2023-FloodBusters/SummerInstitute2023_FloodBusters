@@ -13,7 +13,6 @@ In this repository, you will find the demo code and example data used to develop
 - pandas
 - scipy
 - matplotlib
-- pyplot
 - rasterio
 - geopandas
 - sklearn
